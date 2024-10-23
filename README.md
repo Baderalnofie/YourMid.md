@@ -6,12 +6,16 @@ MediAid is a comprehensive health management tool designed to help users track t
 ## Key Features
 
 - **Medication Management**
- **Personalized Schedules**: Users can create customized medication schedules, specifying dosages and frequencies for each prescription. 
- **Reminders**: The app sends daily notifications to remind users to take their medications, helping to improve adherence. 
- **Medication History**: YourMed keeps track of all the medications you have taken, providing easy access to your full medication history.
+- **Personalized Schedules**: Users can create customized medication schedules, specifying dosages and frequencies for each prescription. 
+- **Reminders**: The app sends daily notifications to remind users to take their medications, helping to improve adherence. 
+- **Medication History**: YourMed keeps track of all the medications you have taken, providing easy access to your full medication history.
 
-- **Symptom Tracking**: Record daily symptoms and changes in health condition to share with your healthcare provider.
-- **Health Analytics**: Generate graphs and periodic reports that summarize your health trends and treatment progress.
+ **Symptom Tracking**
+-  **Data Visualization**: The app generates graphs and reports that summarize health trends, treatment progress, and overall well-being. 
+-  **Insights**: By analyzing tracked data, YourMed offers insights into health patterns, potentially highlighting areas for improvement or further investigation. 
+- **Downloadable Reports**: Users can download PDF reports of their health analytics to share with healthcare professionals.
+
+ **Health Analytics**: Generate graphs and periodic reports that summarize your health trends and treatment progress.
 - **Medical Consultations**: Connect with doctors or health advisors directly through the app for virtual consultations.
 - **Wearable Integration**: Sync with smartwatches and fitness trackers to log physical activity and monitor sleep patterns.
 
@@ -62,6 +66,6 @@ To generate a health report:
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5NDk0MiwtMTE2Mzg1MTc0NywxOD
-k3OTYyMTE0LDE1NzQwMzU0MjddfQ==
+eyJoaXN0b3J5IjpbLTExMDUzMTE2NjcsLTExNjM4NTE3NDcsMT
+g5Nzk2MjExNCwxNTc0MDM1NDI3XX0=
 -->
