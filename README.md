@@ -5,7 +5,7 @@ MediAid is a comprehensive health management tool designed to help users track t
 
 ## Key Features
 
-- **Medication Management**: Create personalized medication schedules with daily reminders to ensure you never miss a dose.
+- **Medication Management**- **Personalized Schedules**: Users can create customized medication schedules, specifying dosages and frequencies for each prescription. - **Reminders**: The app sends daily notifications to remind users to take their medications, helping to improve adherence. - **Medication History**: YourMed keeps track of all the medications you have taken, providing easy access to your full medication history.
 - **Symptom Tracking**: Record daily symptoms and changes in health condition to share with your healthcare provider.
 - **Health Analytics**: Generate graphs and periodic reports that summarize your health trends and treatment progress.
 - **Medical Consultations**: Connect with doctors or health advisors directly through the app for virtual consultations.
@@ -58,6 +58,6 @@ To generate a health report:
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM4NTE3NDcsMTg5Nzk2MjExNCwxNT
-c0MDM1NDI3XX0=
+eyJoaXN0b3J5IjpbLTExNjg5MjIwMjcsLTExNjM4NTE3NDcsMT
+g5Nzk2MjExNCwxNTc0MDM1NDI3XX0=
 -->
