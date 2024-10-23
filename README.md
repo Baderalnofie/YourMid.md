@@ -27,7 +27,10 @@ MediAid is a comprehensive health management tool designed to help users track t
  - **Health Records**: YourMed maintains a secure repository of medical records, prescriptions, and consultation notes for easy access and reference. 
  - **Consultation History**: All previous consultations are logged, and users can review notes and recommendations from their providers.
 
-**Wearable Integration**: Sync with smartwatches and fitness trackers to log physical activity and monitor sleep patterns.
+**Wearable Integration**
+- **Device Compatibility**: YourMed syncs with various wearable devices, such as smartwatches and fitness trackers, to collect data on physical activity, sleep patterns, and vital signs.
+ - **Holistic Monitoring**: The integration of wearable data provides a comprehensive view of the user's health, combining subjective symptom reports with objective activity metrics. 
+- **Real-Time Monitoring**: Users can view real-time health stats, such as heart rate and step count, directly from their wearable devices.
 
 ## Installation Guide
 
@@ -76,6 +79,6 @@ To generate a health report:
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjEyMzQ1MSwtMTE2Mzg1MTc0NywxOD
-k3OTYyMTE0LDE1NzQwMzU0MjddfQ==
+eyJoaXN0b3J5IjpbLTIwNDQxMjc1MTYsLTExNjM4NTE3NDcsMT
+g5Nzk2MjExNCwxNTc0MDM1NDI3XX0=
 -->
