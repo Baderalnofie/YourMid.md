@@ -22,6 +22,8 @@ YourMed is a comprehensive health management tool designed to help users track t
 | **Progress Monitoring** | Visualize symptom trends over time, aiding in the identification of patterns or triggers. 📊 |
 | **Severity Alerts**     | The app will notify users when logged symptoms reach a certain severity, encouraging them to seek medical advice if necessary. 🚨 |
 
+![COVID-19: How to keep safe and track your symptoms](https://cdn.prod.website-files.com/5d0b9e940369a4e721d5881c/5e6ab43b4f8195bd368bd80b_Symptom%20Tracker.png)
+
 ### **📊 Health Analytics**
 | Feature                | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -92,6 +94,5 @@ YourMed takes your privacy seriously. We use advanced encryption methods to ensu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNDcxMDkxLC0xMjQyODE3Mzc5LDE3OT
-YyMTAxOV19
+eyJoaXN0b3J5IjpbMTc0NDQ5ODk0NV19
 -->
