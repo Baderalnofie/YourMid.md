@@ -30,7 +30,8 @@ YourMed is a comprehensive health management tool designed to help users track t
 | **Insights**            | By analyzing tracked data, YourMed offers insights into health patterns, potentially highlighting areas for improvement or further investigation. 🔍 |
 | **Downloadable Reports**| Users can download PDF reports of their health analytics to share with healthcare professionals. 📑 |
 
-![Health Analytics ](https://example.com/health-analytics.png)
+![ISO - An easy guide to understanding healthcare data analytics](https://www.iso.org/files/live/sites/isoorg/files/news/insights/healthcare/Healthcare_Evergreen%20-%20Healthcare%20data%20analytics.svg)
+
 
 ### **⌚ Wearable Integration**
 | Feature                | Description                                                                 |
@@ -93,6 +94,6 @@ YourMed takes your privacy seriously. We use advanced encryption methods to ensu
 ![YourMed Interface](your_med_screenshot.png) *Screenshot of the main dashboard in YourMed.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU0MTMzMzIsLTEyNDI4MTczNzksMT
-c5NjIxMDE5XX0=
+eyJoaXN0b3J5IjpbMTc1MDE5NjMxOSwtMTI0MjgxNzM3OSwxNz
+k2MjEwMTldfQ==
 -->
