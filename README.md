@@ -12,6 +12,9 @@ MediAid is a comprehensive health management tool designed to help users track t
 - **Medication History**: YourMed keeps track of all the medications you have taken, providing easy access to your full medication history.
 
  **Symptom Tracking**
+ - **Daily Logs**: Users can record symptoms, noting their severity and any relevant observations.
+  - **Progress Monitoring**: Visualize symptom trends over time, aiding in the identification of patterns or triggers. 
+ - **Severity Alerts**: The app will notify users when logged symptoms reach a certain severity, encouraging them to seek medical advice if necessary.
 
 
  **Health Analytics**
@@ -19,8 +22,12 @@ MediAid is a comprehensive health management tool designed to help users track t
 -  **Insights**: By analyzing tracked data, YourMed offers insights into health patterns, potentially highlighting areas for improvement or further investigation. 
 - **Downloadable Reports**: Users can download PDF reports of their health analytics to share with healthcare professionals.
 
-- **Medical Consultations**: Connect with doctors or health advisors directly through the app for virtual consultations.
-- **Wearable Integration**: Sync with smartwatches and fitness trackers to log physical activity and monitor sleep patterns.
+ **Medical Consultations**
+ - **Telemedicine Integration**: Users can schedule and conduct virtual consultations with healthcare providers directly through the app. 
+ - **Health Records**: YourMed maintains a secure repository of medical records, prescriptions, and consultation notes for easy access and reference. 
+ - **Consultation History**: All previous consultations are logged, and users can review notes and recommendations from their providers.
+
+**Wearable Integration**: Sync with smartwatches and fitness trackers to log physical activity and monitor sleep patterns.
 
 ## Installation Guide
 
@@ -69,6 +76,6 @@ To generate a health report:
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMyMTE5NjQsLTExNjM4NTE3NDcsMT
-g5Nzk2MjExNCwxNTc0MDM1NDI3XX0=
+eyJoaXN0b3J5IjpbMTAxMjEyMzQ1MSwtMTE2Mzg1MTc0NywxOD
+k3OTYyMTE0LDE1NzQwMzU0MjddfQ==
 -->
