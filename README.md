@@ -90,9 +90,8 @@ YourMed takes your privacy seriously. We use advanced encryption methods to ensu
 
 ---
 
-![YourMed Interface](your_med_screenshot.png) *Screenshot of the main dashboard in YourMed.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTgwNzQ0LC0xMjQyODE3Mzc5LDE3OT
+eyJoaXN0b3J5IjpbNTgyNDcxMDkxLC0xMjQyODE3Mzc5LDE3OT
 YyMTAxOV19
 -->
