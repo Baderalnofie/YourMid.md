@@ -1,7 +1,7 @@
 
-# MediAid - Your Health Companion
+# YourMed - Your Health Companion
 
-MediAid is a comprehensive health management tool designed to help users track their medications, monitor symptoms, and maintain a healthy lifestyle through easy-to-use features.
+YourMed is a comprehensive health management tool designed to help users track their medications, monitor symptoms, and maintain a healthy lifestyle through easy-to-use features.
 
 ## Key Features
 
@@ -79,5 +79,5 @@ To generate a health report:
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQxMjc1MTZdfQ==
+eyJoaXN0b3J5IjpbLTk2NjQ2MTE0OF19
 -->
