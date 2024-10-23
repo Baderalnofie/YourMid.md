@@ -3,7 +3,6 @@
 
 YourMed is a comprehensive health management tool designed to help users track their medications, monitor symptoms, and maintain a healthy lifestyle through easy-to-use features. 📈
 
-![YourMed Overview](https://example.com/yourmed-overview.png)
 
 ## Key Features
 
@@ -14,7 +13,7 @@ YourMed is a comprehensive health management tool designed to help users track t
 | **Reminders**           | The app sends daily notifications to remind users to take their medications, helping to improve adherence. ⏰ |
 | **Medication History**  | YourMed keeps track of all the medications you have taken, providing easy access to your full medication history. 🧾 |
 
-![Medication Management Screenshot](https://example.com/medication-management.png)
+![The risks of poor medication management | Care Business Associate Training](https://cbassociatetraining.co.uk/wp-content/uploads/2022/07/risk-of-poor-medication-management-scaled.jpg)
 
 ### **📝 Symptom Tracking**
 | Feature                | Description                                                                 |
@@ -94,6 +93,6 @@ YourMed takes your privacy seriously. We use advanced encryption methods to ensu
 ![YourMed Interface](your_med_screenshot.png) *Screenshot of the main dashboard in YourMed.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDE5NjMxOSwtMTI0MjgxNzM3OSwxNz
-k2MjEwMTldfQ==
+eyJoaXN0b3J5IjpbNjA2MjAxMDczLC0xMjQyODE3Mzc5LDE3OT
+YyMTAxOV19
 -->
