@@ -76,10 +76,17 @@ To generate a health report:
    Run the installer and follow the on-screen instructions.
    Launch the app from the desktop shortcut.
 
+1. **Windows**
+
+ ``bash Download the .dmg file from the MediAid website. Open the file and drag MediAid to the Applications folder. Launch MediAid from the Applications folder. ``` 
+
+
+4. **Linux** ```bash sudo apt update sudo apt install mediaid ```
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMTMzMDQxLDE4OTc5NjIxMTQsMTU3ND
+eyJoaXN0b3J5IjpbMzE0ODc0MjM0LDE4OTc5NjIxMTQsMTU3ND
 AzNTQyN119
 -->
