@@ -39,7 +39,7 @@ YourMed is a comprehensive health management tool designed to help users track t
 | **Holistic Monitoring** | The integration of wearable data provides a comprehensive view of the user's health, combining subjective symptom reports with objective activity metrics. 📲 |
 | **Real-Time Monitoring**| Users can view real-time health stats, such as heart rate and step count, directly from their wearable devices. 💓 |
 
-![Wearable Integration Screenshot](https://example.com/wearable-integration.png)
+![The Latest Trends in Wearable Technology for Healthcare | HealthTech  Magazine](https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/trending_thumb/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202403/wearable%20trends.jpg?itok=1PamKXo4)
 
 ## 🖥️ Installation Guide
 
@@ -93,6 +93,6 @@ YourMed takes your privacy seriously. We use advanced encryption methods to ensu
 ![YourMed Interface](your_med_screenshot.png) *Screenshot of the main dashboard in YourMed.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MjAxMDczLC0xMjQyODE3Mzc5LDE3OT
+eyJoaXN0b3J5IjpbMzQ0MTgwNzQ0LC0xMjQyODE3Mzc5LDE3OT
 YyMTAxOV19
 -->
