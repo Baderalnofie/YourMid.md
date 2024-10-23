@@ -78,7 +78,8 @@ To generate a health report:
 
 1. **Windows**
 
- ``bash Download the .dmg file from the MediAid website. Open the file and drag MediAid to the Applications folder. Launch MediAid from the Applications folder. ``` 
+ ```bash 
+ Download the .dmg file from the MediAid website. Open the file and drag MediAid to the Applications folder. Launch MediAid from the Applications folder
 
 
 4. **Linux** ```bash sudo apt update sudo apt install mediaid ```
@@ -87,6 +88,6 @@ To generate a health report:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0ODc0MjM0LDE4OTc5NjIxMTQsMTU3ND
-AzNTQyN119
+eyJoaXN0b3J5IjpbMjAyNDA4MzE4NiwxODk3OTYyMTE0LDE1Nz
+QwMzU0MjddfQ==
 -->
